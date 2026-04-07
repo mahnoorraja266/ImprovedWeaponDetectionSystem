@@ -1,0 +1,442 @@
+{
+  "high_noise_count": 1,
+  "medium_noise_count": 61,
+  "high_noise_preview": [
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/a-202-_jpg.rf.c276e24075ab7904774e2df105600f42.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 11.403971121543648,
+      "brightness": 253.93857177734375,
+      "contrast": 5.452979359733543,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "very_blurry_and_low_contrast"
+      ]
+    }
+  ],
+  "medium_noise_preview": [
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/a-188-_jpg.rf.32c8aba4b3d21146dc8213a323323195.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 26.54276367149355,
+      "brightness": 252.08115478515626,
+      "contrast": 14.574447665029716,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "low_contrast"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/a-202-_jpg.rf.52d37317fa0c000e07fb8300ccfa6cec.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 30.574572341060637,
+      "brightness": 235.376162109375,
+      "contrast": 15.259157602546269,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "low_contrast"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1262_jpg.rf.48e3a60e10b629af521f5b629fe855d4.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 19.011367182707794,
+      "brightness": 16.9023095703125,
+      "contrast": 27.859904782151936,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1345_jpg.rf.712e2a44572924f28da4cd91efb8ebc7.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 11.61429185447693,
+      "brightness": 17.9082568359375,
+      "contrast": 40.420412990429085,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file300_jpg.rf.449b7293ddb81adaf4d20c10e378445f.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 6.695632760524748,
+      "brightness": 10.40361083984375,
+      "contrast": 21.928269874221254,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file328_jpg.rf.b56bec9e37677adc1278fcc18373f8cb.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 11.434645995610957,
+      "brightness": 34.0806640625,
+      "contrast": 47.71536223391485,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file442_jpg.rf.a2e0e4c323775ae05a040348386d332c.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 14.954645454734559,
+      "brightness": 28.00988037109375,
+      "contrast": 33.971879348371324,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file482_jpg.rf.44423ed71582ce673efb7d81865cfdf0.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 12.795411263459918,
+      "brightness": 17.52736328125,
+      "contrast": 26.92773275435386,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file867_jpg.rf.1a618e931e6eebd7c70a8ffa6fa52035.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 12.977453574174646,
+      "brightness": 34.692626953125,
+      "contrast": 43.938958394331614,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file867_jpg.rf.80976f57056dd87afb5c12585e1c0aff.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 13.601931102985148,
+      "brightness": 33.92791259765625,
+      "contrast": 43.64319218178913,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file867_jpg.rf.89bd0a1af8f0371c5e5899b2c47bd70b.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 10.05901605004668,
+      "brightness": 25.12455078125,
+      "contrast": 33.28155611351826,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file907_jpg.rf.9b56a9a08f28268d08963b8f3e27af8a.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 11.83362007436752,
+      "brightness": 31.893798828125,
+      "contrast": 28.027697232048958,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-100-_jpg.rf.5c6854cc542cda2a01a7093adb9f1731.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 35.83902341880798,
+      "brightness": 21.01421875,
+      "contrast": 53.77571412508704,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-100-_jpg.rf.9dabd503bdabf90aff4e179870f5853b.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 26.858083473914864,
+      "brightness": 16.8764453125,
+      "contrast": 45.86034552700605,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-165-_jpg.rf.54ec92ca4041e853d7d80790a39f1568.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 26.55489716634751,
+      "brightness": 31.8098779296875,
+      "contrast": 43.32899145009903,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-165-_jpg.rf.ed686c8644bce4469bd3b1badb77d6e8.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 23.657361011976004,
+      "brightness": 30.55885498046875,
+      "contrast": 40.72717934811805,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-246-_jpg.rf.d8173a23e006dd8a67304bf897d38525.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 12.859377354139085,
+      "brightness": 7.98411376953125,
+      "contrast": 26.693116798981865,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-246-_jpg.rf.e75fb9ac24dc8d8e00382fa65a658d3e.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 25.564462875723837,
+      "brightness": 28.39254638671875,
+      "contrast": 46.65033527070766,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-308-_jpg.rf.a32e0ff8b021d9fdd57fa09670960cb0.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 2.982324202632904,
+      "brightness": 31.48706787109375,
+      "contrast": 22.973475252602007,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-322-_jpg.rf.24b4faefc412eb4d8296281f7b956ed5.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 17.82271410522461,
+      "brightness": 23.64943603515625,
+      "contrast": 29.51440000310479,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-322-_jpg.rf.ae793c860cee7eade24d2e0233af2a42.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 23.10253097009063,
+      "brightness": 17.104443359375,
+      "contrast": 28.739748508277827,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-325-_jpg.rf.1792677055ef69aab6e6597333dd4148.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 14.54721913909316,
+      "brightness": 16.78101318359375,
+      "contrast": 26.982556962294343,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-325-_jpg.rf.cef320d91bc676ad745e50a5c00686ba.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 16.49181382164359,
+      "brightness": 22.0510693359375,
+      "contrast": 31.09932941978696,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-361-_jpg.rf.83bc4a6364b0047f5cd7138490c5477a.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 9.06368895911574,
+      "brightness": 27.76662109375,
+      "contrast": 21.19227919248081,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-384-_jpg.rf.b5c92aebd30c8738bce40fda2a6abaec.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 7.985755938625335,
+      "brightness": 22.48015380859375,
+      "contrast": 31.39329500646694,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-387-_jpg.rf.8fb9995a970bfdb08cf42c9cc925db26.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 38.214295312500006,
+      "brightness": 21.631201171875,
+      "contrast": 28.242717675220028,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-421-_jpg.rf.bcc5a5b80020aa2116b5f46e8d949382.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 3.965371073698998,
+      "brightness": 27.18237548828125,
+      "contrast": 32.317565086297186,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-495-_jpg.rf.f82331d3383abbdbea6068fed9e1e82d.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 27.567529183363913,
+      "brightness": 9.56740234375,
+      "contrast": 17.292909236266304,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark",
+        "low_contrast"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-65-_jpg.rf.624d6634ce17e546966e3a2cbfc7fec6.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 36.986907419180866,
+      "brightness": 9.73846923828125,
+      "contrast": 27.108918630894443,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-72-_jpg.rf.5960754783edfe0d93e9fe5bc6ba30f9.jpg",
+      "h": 640,
+      "w": 640,
+      "lap_var": 25.567586471176146,
+      "brightness": 12.40934814453125,
+      "contrast": 19.68841094159614,
+      "aspect_ratio": 1.0,
+      "reasons": [
+        "blurry",
+        "dark"
+      ]
+    }
+  ]
+}

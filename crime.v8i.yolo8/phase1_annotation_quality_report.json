@@ -1,0 +1,147 @@
+{
+  "proceed_annotation_audit": true,
+  "imbalance_state": "mild",
+  "spotcheck_sample_count": 300,
+  "spotcheck_manifest": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase1_spotcheck_300.json",
+  "flags_summary": {
+    "duplicate_overlap_flags": 0,
+    "extreme_bbox_size_flags": 270,
+    "keyword_missing_weapon_flags": 0
+  },
+  "flags_preview": {
+    "duplicate_overlap_first10": [],
+    "extreme_bbox_size_first10": [
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/a-153-_jpg.rf.1ffbc06c84fb1078e41796f3f91879d2.txt",
+        "line_index": 2,
+        "class_id": 0,
+        "bbox": [
+          0.490625,
+          0.5234375,
+          0.93125,
+          0.953125
+        ],
+        "area": 0.88759765625
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/a-153-_jpg.rf.366dd0d95d5682405e60b8106fefade7.txt",
+        "line_index": 2,
+        "class_id": 0,
+        "bbox": [
+          0.509375,
+          0.5234375,
+          0.93125,
+          0.953125
+        ],
+        "area": 0.88759765625
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/a-153-_jpg.rf.fe3fa59a78711fd832e2544c38818219.txt",
+        "line_index": 2,
+        "class_id": 0,
+        "bbox": [
+          0.490625,
+          0.5234375,
+          0.93125,
+          0.953125
+        ],
+        "area": 0.88759765625
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.64808f7c0d7f4cd4c14067fcd6f74969.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.50625,
+          0.44375,
+          0.9875,
+          0.8328125
+        ],
+        "area": 0.82240234375
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.e9c84491d1b2f5308490828f072e50e2.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.49375,
+          0.44375,
+          0.9875,
+          0.8328125
+        ],
+        "area": 0.82240234375
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.e9f2e27c5b9720c5576ff6cdb08f9ad7.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.50625,
+          0.44375,
+          0.9875,
+          0.8328125
+        ],
+        "area": 0.82240234375
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.05370b98093f94050274b81a068fdd03.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.496875,
+          0.5078125,
+          0.9734375,
+          0.915625
+        ],
+        "area": 0.8913037109374999
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.a6b20038db3985936f0c835079856a74.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.503125,
+          0.5078125,
+          0.9734375,
+          0.915625
+        ],
+        "area": 0.8913037109374999
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.bb7c6def720e23cb8c0b33477933d2bf.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.503125,
+          0.5078125,
+          0.9734375,
+          0.915625
+        ],
+        "area": 0.8913037109374999
+      },
+      {
+        "split": "train",
+        "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file300_jpg.rf.449b7293ddb81adaf4d20c10e378445f.txt",
+        "line_index": 1,
+        "class_id": 2,
+        "bbox": [
+          0.5015625,
+          0.5125,
+          0.996875,
+          0.975
+        ],
+        "area": 0.971953125
+      }
+    ],
+    "keyword_missing_weapon_first10": []
+  }
+}

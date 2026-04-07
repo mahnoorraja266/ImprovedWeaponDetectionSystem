@@ -1,0 +1,18 @@
+{
+  "total_records": 7794,
+  "target_counts_70_20_10": {
+    "train": 5456,
+    "valid": 1559,
+    "test": 779
+  },
+  "assigned_counts": {
+    "train": 5456,
+    "valid": 1558,
+    "test": 780
+  },
+  "leakage_checks": {
+    "exact_hash_cross_split": 0,
+    "source_key_cross_split": 0,
+    "sequence_key_cross_split": 0
+  }
+}

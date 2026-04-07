@@ -1,0 +1,39 @@
+{
+  "dataset_root": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8",
+  "total_images": 7794,
+  "split_counts": {
+    "train": 7225,
+    "valid": 264,
+    "test": 305
+  },
+  "split_percentages": {
+    "train": 92.7,
+    "valid": 3.39,
+    "test": 3.91
+  },
+  "target_70_20_10": {
+    "train_70": 5455,
+    "valid_20": 1558,
+    "test_10": 781
+  },
+  "box_counts": {
+    "criminal": 3882,
+    "person": 6663,
+    "weapon": 6063
+  },
+  "image_presence_counts": {
+    "criminal": 3742,
+    "person": 2735,
+    "weapon": 5695
+  },
+  "quality_flags": {
+    "empty_label_files": 3,
+    "malformed_rows": 0,
+    "invalid_class_rows": 0,
+    "invalid_range_rows": 0
+  },
+  "leakage_flags": {
+    "exact_cross_split_duplicates": 0,
+    "same_stem_cross_split_potential": 0
+  }
+}
