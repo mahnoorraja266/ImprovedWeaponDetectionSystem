@@ -1,0 +1,1909 @@
+{
+  "high_confidence_candidates": 50,
+  "review_only_candidates": 420,
+  "high_confidence_preview": [
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/a-202-_jpg.rf.c276e24075ab7904774e2df105600f42.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/a-202-_jpg.rf.c276e24075ab7904774e2df105600f42.txt",
+      "flags": [
+        "overexposed_flat_extreme"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.51953125,
+        "mean_saturation": 1.89596435546875,
+        "mean_brightness": 254.6072607421875,
+        "contrast_std": 5.452979359733543
+      },
+      "max_box_area": 0.5876171875,
+      "classes": [
+        0,
+        2
+      ],
+      "n_boxes": 2
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1122_jpg.rf.64808f7c0d7f4cd4c14067fcd6f74969.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.64808f7c0d7f4cd4c14067fcd6f74969.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.89453125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 154.60204345703124,
+        "contrast_std": 87.54603207264238
+      },
+      "max_box_area": 0.82240234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1122_jpg.rf.e9c84491d1b2f5308490828f072e50e2.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.e9c84491d1b2f5308490828f072e50e2.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.97265625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 139.340517578125,
+        "contrast_std": 95.72126917251849
+      },
+      "max_box_area": 0.82240234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1122_jpg.rf.e9f2e27c5b9720c5576ff6cdb08f9ad7.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1122_jpg.rf.e9f2e27c5b9720c5576ff6cdb08f9ad7.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.921875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 153.3418359375,
+        "contrast_std": 87.16951415487253
+      },
+      "max_box_area": 0.82240234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1460_jpg.rf.05370b98093f94050274b81a068fdd03.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.05370b98093f94050274b81a068fdd03.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.86328125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 163.2095654296875,
+        "contrast_std": 74.06798346859537
+      },
+      "max_box_area": 0.8913037109374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1460_jpg.rf.a6b20038db3985936f0c835079856a74.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.a6b20038db3985936f0c835079856a74.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.78125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 176.5429052734375,
+        "contrast_std": 70.52545958146302
+      },
+      "max_box_area": 0.8913037109374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1460_jpg.rf.bb7c6def720e23cb8c0b33477933d2bf.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1460_jpg.rf.bb7c6def720e23cb8c0b33477933d2bf.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.87109375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 185.69135009765625,
+        "contrast_std": 73.77909070315164
+      },
+      "max_box_area": 0.8913037109374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file300_jpg.rf.449b7293ddb81adaf4d20c10e378445f.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file300_jpg.rf.449b7293ddb81adaf4d20c10e378445f.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.6484375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 10.40361083984375,
+        "contrast_std": 21.928269874221254
+      },
+      "max_box_area": 0.971953125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file300_jpg.rf.bedfc6cf7083409c446d2eefea16d2c0.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file300_jpg.rf.bedfc6cf7083409c446d2eefea16d2c0.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.87109375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 92.6555029296875,
+        "contrast_std": 53.28849733968553
+      },
+      "max_box_area": 0.971953125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file300_jpg.rf.cac7afcfaf8486c98114b3c14c530a60.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file300_jpg.rf.cac7afcfaf8486c98114b3c14c530a60.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9765625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 60.7846435546875,
+        "contrast_std": 53.48352676547552
+      },
+      "max_box_area": 0.971953125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-104-_jpg.rf.13c632f5d601dbcc3637adca7174aaa1.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-104-_jpg.rf.13c632f5d601dbcc3637adca7174aaa1.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9453125,
+        "mean_saturation": 8.76381591796875,
+        "mean_brightness": 170.252490234375,
+        "contrast_std": 69.09513442958446
+      },
+      "max_box_area": 0.86419921875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-104-_jpg.rf.6d8a80ea6f2fb38b2699ae468245dcc2.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-104-_jpg.rf.6d8a80ea6f2fb38b2699ae468245dcc2.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.6328125,
+        "mean_saturation": 3.30412841796875,
+        "mean_brightness": 219.35776123046875,
+        "contrast_std": 46.45629694597639
+      },
+      "max_box_area": 0.86419921875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-104-_jpg.rf.a63a330b300963b6e6aa403dd72ff08c.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-104-_jpg.rf.a63a330b300963b6e6aa403dd72ff08c.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.76171875,
+        "mean_saturation": 28.55045166015625,
+        "mean_brightness": 110.5560986328125,
+        "contrast_std": 72.78133593945144
+      },
+      "max_box_area": 0.86419921875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-115-_jpg.rf.089c50a1d540c09380f315bb3f5de483.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-115-_jpg.rf.089c50a1d540c09380f315bb3f5de483.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.953125,
+        "mean_saturation": 27.19098388671875,
+        "mean_brightness": 20.8306591796875,
+        "contrast_std": 36.006322870867024
+      },
+      "max_box_area": 0.8104687500000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-115-_jpg.rf.735cf9a10684c2c7fd41e176fe9e1b4c.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-115-_jpg.rf.735cf9a10684c2c7fd41e176fe9e1b4c.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 1.0,
+        "mean_saturation": 22.62169677734375,
+        "mean_brightness": 43.16670654296875,
+        "contrast_std": 45.373169708322145
+      },
+      "max_box_area": 0.8104687500000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-115-_jpg.rf.e2e3892f921d87c3e9b2df32c2c471dd.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-115-_jpg.rf.e2e3892f921d87c3e9b2df32c2c471dd.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 1.0,
+        "mean_saturation": 32.3702294921875,
+        "mean_brightness": 32.38245361328125,
+        "contrast_std": 42.84721328594019
+      },
+      "max_box_area": 0.8104687500000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-148-_jpg.rf.23417d932749b7a1e7bac38eb1a9ee60.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-148-_jpg.rf.23417d932749b7a1e7bac38eb1a9ee60.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.7265625,
+        "mean_saturation": 20.114482421875,
+        "mean_brightness": 122.02015380859375,
+        "contrast_std": 74.96323139835661
+      },
+      "max_box_area": 0.85601806640625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-148-_jpg.rf.6a1ec78ff2f40e9553908b0ea8a1c8f5.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-148-_jpg.rf.6a1ec78ff2f40e9553908b0ea8a1c8f5.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8125,
+        "mean_saturation": 17.1163671875,
+        "mean_brightness": 141.82391845703125,
+        "contrast_std": 79.6819517269226
+      },
+      "max_box_area": 0.85601806640625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-148-_jpg.rf.cefeeb91dc76c22d80325cf84e041e77.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-148-_jpg.rf.cefeeb91dc76c22d80325cf84e041e77.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 1.0,
+        "mean_saturation": 11.19428466796875,
+        "mean_brightness": 191.3811328125,
+        "contrast_std": 89.59166109627027
+      },
+      "max_box_area": 0.85601806640625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-254-_jpg.rf.1eb4e89c10f16235fb5f592eeaf7acdd.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-254-_jpg.rf.1eb4e89c10f16235fb5f592eeaf7acdd.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.7734375,
+        "mean_saturation": 29.5513720703125,
+        "mean_brightness": 108.2666796875,
+        "contrast_std": 74.36543733512306
+      },
+      "max_box_area": 0.8465625000000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-254-_jpg.rf.a79e69b2ec7f0347d6edf485aa01c3de.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-254-_jpg.rf.a79e69b2ec7f0347d6edf485aa01c3de.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.95703125,
+        "mean_saturation": 8.92194580078125,
+        "mean_brightness": 178.1206494140625,
+        "contrast_std": 68.19900884378784
+      },
+      "max_box_area": 0.8465625000000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-254-_jpg.rf.ca1dae59993551c57fcdc2d85be61b74.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-254-_jpg.rf.ca1dae59993551c57fcdc2d85be61b74.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.95703125,
+        "mean_saturation": 13.8524169921875,
+        "mean_brightness": 154.85739013671875,
+        "contrast_std": 82.07006893315999
+      },
+      "max_box_area": 0.8465625000000001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-261-_jpg.rf.55c9cc7cd36b17399773df450ec02158.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-261-_jpg.rf.55c9cc7cd36b17399773df450ec02158.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.73828125,
+        "mean_saturation": 21.64743408203125,
+        "mean_brightness": 183.66010986328126,
+        "contrast_std": 41.38525861554918
+      },
+      "max_box_area": 0.85963623046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-261-_jpg.rf.be6e8c91c450cf65b5027b83c967b211.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-261-_jpg.rf.be6e8c91c450cf65b5027b83c967b211.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.84375,
+        "mean_saturation": 73.5445751953125,
+        "mean_brightness": 82.8640087890625,
+        "contrast_std": 47.229425987542896
+      },
+      "max_box_area": 0.85963623046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-261-_jpg.rf.db04538625d7e746b026703832e9e5e4.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-261-_jpg.rf.db04538625d7e746b026703832e9e5e4.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.83203125,
+        "mean_saturation": 77.10822509765624,
+        "mean_brightness": 75.1044287109375,
+        "contrast_std": 44.88170385962431
+      },
+      "max_box_area": 0.85963623046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-273-_jpg.rf.2e8a48cd881839044cbfba5487242be6.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-273-_jpg.rf.2e8a48cd881839044cbfba5487242be6.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.578125,
+        "mean_saturation": 7.041552734375,
+        "mean_brightness": 67.7076416015625,
+        "contrast_std": 52.45817688445021
+      },
+      "max_box_area": 0.87890380859375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-273-_jpg.rf.78b47082ca168a9b1898eed7fec59dbf.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-273-_jpg.rf.78b47082ca168a9b1898eed7fec59dbf.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.91015625,
+        "mean_saturation": 4.49786376953125,
+        "mean_brightness": 158.27962646484374,
+        "contrast_std": 71.27693850231347
+      },
+      "max_box_area": 0.87890380859375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-273-_jpg.rf.fbcc0d708e3d6c0fc591a3498d955777.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-273-_jpg.rf.fbcc0d708e3d6c0fc591a3498d955777.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.79296875,
+        "mean_saturation": 23.8193212890625,
+        "mean_brightness": 117.18692138671875,
+        "contrast_std": 71.29711748920994
+      },
+      "max_box_area": 0.87890380859375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-284-_jpg.rf.bd264fe531cbb32bdf6eb32e1478e80b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-284-_jpg.rf.bd264fe531cbb32bdf6eb32e1478e80b.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9765625,
+        "mean_saturation": 38.90822509765625,
+        "mean_brightness": 117.56391357421874,
+        "contrast_std": 95.88547888572481
+      },
+      "max_box_area": 0.92599365234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-284-_jpg.rf.c17a009464df19291d81e70aef9ff70c.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-284-_jpg.rf.c17a009464df19291d81e70aef9ff70c.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.95703125,
+        "mean_saturation": 69.84185546875,
+        "mean_brightness": 88.8779052734375,
+        "contrast_std": 93.81464501402219
+      },
+      "max_box_area": 0.92599365234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-284-_jpg.rf.c9c4d70de14bb31fac9da756e37c36fc.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-284-_jpg.rf.c9c4d70de14bb31fac9da756e37c36fc.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.94140625,
+        "mean_saturation": 31.816748046875,
+        "mean_brightness": 125.087275390625,
+        "contrast_std": 98.84246006743135
+      },
+      "max_box_area": 0.92599365234375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-285-_jpg.rf.79b5076c87a217153828e866ce207da2.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-285-_jpg.rf.79b5076c87a217153828e866ce207da2.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9140625,
+        "mean_saturation": 19.276796875,
+        "mean_brightness": 193.1889111328125,
+        "contrast_std": 75.0434135952867
+      },
+      "max_box_area": 0.880322265625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-285-_jpg.rf.aa3367a5ae4a3a92c6ce202f17ecb899.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-285-_jpg.rf.aa3367a5ae4a3a92c6ce202f17ecb899.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.91796875,
+        "mean_saturation": 21.9846240234375,
+        "mean_brightness": 160.77581298828125,
+        "contrast_std": 58.39304996386156
+      },
+      "max_box_area": 0.880322265625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-285-_jpg.rf.ad260c08206a33d21d18b3394e06eca8.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-285-_jpg.rf.ad260c08206a33d21d18b3394e06eca8.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.921875,
+        "mean_saturation": 19.995048828125,
+        "mean_brightness": 192.48937255859374,
+        "contrast_std": 76.98607783314739
+      },
+      "max_box_area": 0.880322265625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-286-_jpg.rf.10e791317ff68e2b7b0c0ee3a6a3d14d.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-286-_jpg.rf.10e791317ff68e2b7b0c0ee3a6a3d14d.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.80078125,
+        "mean_saturation": 20.34658447265625,
+        "mean_brightness": 117.17639892578126,
+        "contrast_std": 73.17027873396091
+      },
+      "max_box_area": 0.84548828125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-286-_jpg.rf.22b6e03283b8df731bdc6093b9589c19.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-286-_jpg.rf.22b6e03283b8df731bdc6093b9589c19.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.953125,
+        "mean_saturation": 9.0986767578125,
+        "mean_brightness": 174.160732421875,
+        "contrast_std": 90.89801300542877
+      },
+      "max_box_area": 0.84548828125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-286-_jpg.rf.ca75cf4b61d32073cd46fa1f48f9d165.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-286-_jpg.rf.ca75cf4b61d32073cd46fa1f48f9d165.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.6875,
+        "mean_saturation": 22.786103515625,
+        "mean_brightness": 90.7840234375,
+        "contrast_std": 65.90636843934938
+      },
+      "max_box_area": 0.84548828125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-60-_jpg.rf.4fe994f9da349ce168acd3c1d27f3cee.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-60-_jpg.rf.4fe994f9da349ce168acd3c1d27f3cee.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.85546875,
+        "mean_saturation": 185.4482763671875,
+        "mean_brightness": 119.77010986328125,
+        "contrast_std": 48.87595252480682
+      },
+      "max_box_area": 0.8855200195312499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-60-_jpg.rf.a0ce8ef9f7958421d0a6ead83afb6fe3.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-60-_jpg.rf.a0ce8ef9f7958421d0a6ead83afb6fe3.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8671875,
+        "mean_saturation": 185.45668701171874,
+        "mean_brightness": 122.6495361328125,
+        "contrast_std": 46.80150031385677
+      },
+      "max_box_area": 0.8855200195312499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-60-_jpg.rf.cfb26c70fa9eb5ac3478c7f6013e8eae.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-60-_jpg.rf.cfb26c70fa9eb5ac3478c7f6013e8eae.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.94140625,
+        "mean_saturation": 171.01283447265624,
+        "mean_brightness": 143.53186279296875,
+        "contrast_std": 51.4218664681487
+      },
+      "max_box_area": 0.8855200195312499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-97-_jpg.rf.ba45fdabe32ccbe6811d6246976abcc4.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-97-_jpg.rf.ba45fdabe32ccbe6811d6246976abcc4.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.7578125,
+        "mean_saturation": 50.3599072265625,
+        "mean_brightness": 129.8433251953125,
+        "contrast_std": 74.29951985608996
+      },
+      "max_box_area": 0.80079345703125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-97-_jpg.rf.c9d0c29781071367d615c31246d1354f.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-97-_jpg.rf.c9d0c29781071367d615c31246d1354f.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8984375,
+        "mean_saturation": 41.74489501953125,
+        "mean_brightness": 157.114423828125,
+        "contrast_std": 84.98796664321193
+      },
+      "max_box_area": 0.80079345703125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/gun-97-_jpg.rf.d315da808d2ab56f0e3179c5bf2b5dba.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/gun-97-_jpg.rf.d315da808d2ab56f0e3179c5bf2b5dba.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.78125,
+        "mean_saturation": 50.94806396484375,
+        "mean_brightness": 131.2904345703125,
+        "contrast_std": 75.04378366355223
+      },
+      "max_box_area": 0.80079345703125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/image-1-72-_jpeg.rf.1106f1bc71692a148c0683d91dea8af4.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/image-1-72-_jpeg.rf.1106f1bc71692a148c0683d91dea8af4.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8515625,
+        "mean_saturation": 22.55349609375,
+        "mean_brightness": 196.9925,
+        "contrast_std": 51.89473833036306
+      },
+      "max_box_area": 0.819375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/image-1-72-_jpeg.rf.3ed4b9a368087d4b8f75d5351f00b5f1.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/image-1-72-_jpeg.rf.3ed4b9a368087d4b8f75d5351f00b5f1.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.96484375,
+        "mean_saturation": 52.53274169921875,
+        "mean_brightness": 128.37513671875,
+        "contrast_std": 66.41598634822483
+      },
+      "max_box_area": 0.819375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/image-1-72-_jpeg.rf.8f0ae075bf5799fc698fe771ca79ad0f.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/image-1-72-_jpeg.rf.8f0ae075bf5799fc698fe771ca79ad0f.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.875,
+        "mean_saturation": 23.86396484375,
+        "mean_brightness": 196.193662109375,
+        "contrast_std": 57.85493602497765
+      },
+      "max_box_area": 0.819375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "valid",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/valid/images/gun-280-_jpg.rf.7ff78b4fa3ff11e8c30227c3250209cc.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/valid/labels/gun-280-_jpg.rf.7ff78b4fa3ff11e8c30227c3250209cc.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9375,
+        "mean_saturation": 7.80689208984375,
+        "mean_brightness": 156.20780517578126,
+        "contrast_std": 77.16311439442345
+      },
+      "max_box_area": 0.8241015624999999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "test",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/images/gun-123-_jpg.rf.4ca04b5a205b19c412fcd4a2f06b78b6.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/labels/gun-123-_jpg.rf.4ca04b5a205b19c412fcd4a2f06b78b6.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9453125,
+        "mean_saturation": 6.46228271484375,
+        "mean_brightness": 166.96885498046876,
+        "contrast_std": 76.4048744749305
+      },
+      "max_box_area": 0.8043847656249999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "test",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/images/gun-243-_jpg.rf.1b0ec7a4283e94e037f1f2f98e8ba942.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/labels/gun-243-_jpg.rf.1b0ec7a4283e94e037f1f2f98e8ba942.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9765625,
+        "mean_saturation": 33.7616064453125,
+        "mean_brightness": 184.51455810546875,
+        "contrast_std": 94.83082986453056
+      },
+      "max_box_area": 0.85078125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "test",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/images/gun-276-_jpg.rf.443550e5ec7feb93281f3200aed0e9b7.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/test/labels/gun-276-_jpg.rf.443550e5ec7feb93281f3200aed0e9b7.txt",
+      "flags": [
+        "extreme_weapon_closeup_no_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.953125,
+        "mean_saturation": 5.0490234375,
+        "mean_brightness": 138.41889404296876,
+        "contrast_std": 72.24295516797845
+      },
+      "max_box_area": 0.8084912109375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    }
+  ],
+  "review_only_preview": [
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/188_jpeg.rf.948125ccf9dcd0a9444fc1bb377133e6.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/188_jpeg.rf.948125ccf9dcd0a9444fc1bb377133e6.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9921875,
+        "mean_saturation": 72.487958984375,
+        "mean_brightness": 144.93318359375,
+        "contrast_std": 79.4011663955566
+      },
+      "max_box_area": 0.6838330078125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/188_jpeg.rf.aa8c65a45fb86a8240607771e5ad86d3.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/188_jpeg.rf.aa8c65a45fb86a8240607771e5ad86d3.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.95703125,
+        "mean_saturation": 46.51054443359375,
+        "mean_brightness": 162.3290380859375,
+        "contrast_std": 76.63917514627317
+      },
+      "max_box_area": 0.6838330078125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/188_jpeg.rf.ab0255a6f58b60d03d6e027871157302.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/188_jpeg.rf.ab0255a6f58b60d03d6e027871157302.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9609375,
+        "mean_saturation": 45.64370849609375,
+        "mean_brightness": 161.84391845703124,
+        "contrast_std": 73.41943124229708
+      },
+      "max_box_area": 0.6838330078125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1000_jpg.rf.242c09a002473ef9cf645ebe3a43a9d9.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1000_jpg.rf.242c09a002473ef9cf645ebe3a43a9d9.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.90234375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 160.21644775390624,
+        "contrast_std": 96.40247223898253
+      },
+      "max_box_area": 0.6938891601562499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1000_jpg.rf.4244462518b27137217496c6acf0c373.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1000_jpg.rf.4244462518b27137217496c6acf0c373.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.984375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 138.1631494140625,
+        "contrast_std": 105.82025344195075
+      },
+      "max_box_area": 0.6938891601562499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1000_jpg.rf.6a414bc20f6c3a30636d7e765cd56f71.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1000_jpg.rf.6a414bc20f6c3a30636d7e765cd56f71.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.90234375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 118.9123046875,
+        "contrast_std": 99.49780791182653
+      },
+      "max_box_area": 0.6938891601562499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1005_jpg.rf.016e3870a9422d6f0433552bc8ae574b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1005_jpg.rf.016e3870a9422d6f0433552bc8ae574b.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.78125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 178.13111572265626,
+        "contrast_std": 80.5305633554793
+      },
+      "max_box_area": 0.7275146484374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1005_jpg.rf.0e0571142769ca3bfe0ec107dc5e30d9.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1005_jpg.rf.0e0571142769ca3bfe0ec107dc5e30d9.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 125.62149169921875,
+        "contrast_std": 94.35062845247187
+      },
+      "max_box_area": 0.7275146484374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1005_jpg.rf.b2001e9a7be3f383db71e2d480524327.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1005_jpg.rf.b2001e9a7be3f383db71e2d480524327.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.91796875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 157.44916748046876,
+        "contrast_std": 97.66151237841514
+      },
+      "max_box_area": 0.7275146484374999,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1035_jpg.rf.5e2e237436b89e5014a0c56a43a3cee6.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1035_jpg.rf.5e2e237436b89e5014a0c56a43a3cee6.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.96875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 136.47620361328126,
+        "contrast_std": 86.9726143934693
+      },
+      "max_box_area": 0.7073974609375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1035_jpg.rf.e00a156494f4b48bfcca8af286cb5ce7.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1035_jpg.rf.e00a156494f4b48bfcca8af286cb5ce7.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.79296875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 74.854091796875,
+        "contrast_std": 75.56494435443228
+      },
+      "max_box_area": 0.7073974609375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1035_jpg.rf.e1bcd090f0b027caf9ed60066767b688.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1035_jpg.rf.e1bcd090f0b027caf9ed60066767b688.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.90234375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 98.15096435546874,
+        "contrast_std": 84.90376431364311
+      },
+      "max_box_area": 0.7073974609375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1057_jpg.rf.38f38bb7aa4079903227ac6afb3d5ea6.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1057_jpg.rf.38f38bb7aa4079903227ac6afb3d5ea6.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.74609375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 185.3073681640625,
+        "contrast_std": 77.65907123526667
+      },
+      "max_box_area": 0.68750244140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1057_jpg.rf.4677718730b3789ee1967ff03ae0c764.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1057_jpg.rf.4677718730b3789ee1967ff03ae0c764.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.88671875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 113.217880859375,
+        "contrast_std": 97.79176264597994
+      },
+      "max_box_area": 0.68750244140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1057_jpg.rf.86f95998d167f1b4fdfdee731afe86a8.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1057_jpg.rf.86f95998d167f1b4fdfdee731afe86a8.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.79296875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 98.3487451171875,
+        "contrast_std": 86.99097978723564
+      },
+      "max_box_area": 0.68750244140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1066_jpg.rf.2cb3ba799f9111f3c9298874bd207842.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1066_jpg.rf.2cb3ba799f9111f3c9298874bd207842.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.75,
+        "mean_saturation": 0.0,
+        "mean_brightness": 176.1956884765625,
+        "contrast_std": 76.38329382241098
+      },
+      "max_box_area": 0.691787109375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1066_jpg.rf.4a3a0254989ec135663c9e1e8a713b4b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1066_jpg.rf.4a3a0254989ec135663c9e1e8a713b4b.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.953125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 118.56710205078124,
+        "contrast_std": 103.00688903525352
+      },
+      "max_box_area": 0.691787109375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1066_jpg.rf.c5b5b199cb08368b49f1b8e2bb967416.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1066_jpg.rf.c5b5b199cb08368b49f1b8e2bb967416.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.91015625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 151.01408447265624,
+        "contrast_std": 96.56653472743211
+      },
+      "max_box_area": 0.691787109375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1067_jpg.rf.8a76e68358a0878f6712bc58e1a9250d.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1067_jpg.rf.8a76e68358a0878f6712bc58e1a9250d.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 1.0,
+        "mean_saturation": 0.0,
+        "mean_brightness": 146.56681884765624,
+        "contrast_std": 106.17513876094375
+      },
+      "max_box_area": 0.72170654296875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1067_jpg.rf.9f4194c5e12b07a8907b69a64084ed8d.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1067_jpg.rf.9f4194c5e12b07a8907b69a64084ed8d.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.87890625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 128.93322998046875,
+        "contrast_std": 92.01891010366745
+      },
+      "max_box_area": 0.72170654296875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1067_jpg.rf.a26d07c5be45997e9d1ad72a02a4f332.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1067_jpg.rf.a26d07c5be45997e9d1ad72a02a4f332.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.98046875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 156.253330078125,
+        "contrast_std": 101.67962310862558
+      },
+      "max_box_area": 0.72170654296875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1084_jpg.rf.17290f259a98163650c2042c265d93cf.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1084_jpg.rf.17290f259a98163650c2042c265d93cf.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.96875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 137.27624755859375,
+        "contrast_std": 102.54151792670201
+      },
+      "max_box_area": 0.6746484375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1084_jpg.rf.477c5519cac851b3b35d22717d7353ad.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1084_jpg.rf.477c5519cac851b3b35d22717d7353ad.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9765625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 130.1592333984375,
+        "contrast_std": 106.3807131672966
+      },
+      "max_box_area": 0.6746484375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1084_jpg.rf.b4ba147864c2e24a0945db228f3ead45.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1084_jpg.rf.b4ba147864c2e24a0945db228f3ead45.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.97265625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 147.194638671875,
+        "contrast_std": 101.53492335501755
+      },
+      "max_box_area": 0.6746484375,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1087_jpg.rf.0ceb7db3b5bc8976d11dc0af40073adf.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1087_jpg.rf.0ceb7db3b5bc8976d11dc0af40073adf.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8203125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 103.67324462890625,
+        "contrast_std": 91.88255355837653
+      },
+      "max_box_area": 0.6776123046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1087_jpg.rf.0d6ca5802e4f2b3bec972d8ce9dc500b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1087_jpg.rf.0d6ca5802e4f2b3bec972d8ce9dc500b.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9453125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 151.04252685546874,
+        "contrast_std": 102.09694363195256
+      },
+      "max_box_area": 0.6776123046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1087_jpg.rf.65e66ec11b12a4ea421ba1703ad7e5ee.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1087_jpg.rf.65e66ec11b12a4ea421ba1703ad7e5ee.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.82421875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 102.1832861328125,
+        "contrast_std": 91.92408332243559
+      },
+      "max_box_area": 0.6776123046875,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1090_jpg.rf.356ee42767097d4d15a1a0c8c934cdf0.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1090_jpg.rf.356ee42767097d4d15a1a0c8c934cdf0.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.99609375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 123.87598876953125,
+        "contrast_std": 106.88444011955971
+      },
+      "max_box_area": 0.7023242187500001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1090_jpg.rf.74613f612ae1a1d89892547414fba446.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1090_jpg.rf.74613f612ae1a1d89892547414fba446.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.96484375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 132.302119140625,
+        "contrast_std": 105.16098221800765
+      },
+      "max_box_area": 0.7023242187500001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1090_jpg.rf.c3f56e31137f7efd52fc493c1761f42f.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1090_jpg.rf.c3f56e31137f7efd52fc493c1761f42f.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.98828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 120.31775146484375,
+        "contrast_std": 108.03546728155929
+      },
+      "max_box_area": 0.7023242187500001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1167_jpg.rf.85ebfab58bb69f896c5b0df19cc92641.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1167_jpg.rf.85ebfab58bb69f896c5b0df19cc92641.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.7578125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 88.60837158203125,
+        "contrast_std": 90.39388957336536
+      },
+      "max_box_area": 0.69134765625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1167_jpg.rf.9b427e252155dbd967139738fe01a87f.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1167_jpg.rf.9b427e252155dbd967139738fe01a87f.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.94921875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 141.7710009765625,
+        "contrast_std": 107.50477574272753
+      },
+      "max_box_area": 0.69134765625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1167_jpg.rf.cdd8bc8def1a1903784dcea4a8bb4d85.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1167_jpg.rf.cdd8bc8def1a1903784dcea4a8bb4d85.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9609375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 118.89896240234376,
+        "contrast_std": 110.31035837553526
+      },
+      "max_box_area": 0.69134765625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1175_jpg.rf.3e462d648fc9b67605a423877f7d5050.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1175_jpg.rf.3e462d648fc9b67605a423877f7d5050.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.73828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 189.9724560546875,
+        "contrast_std": 80.95993558570817
+      },
+      "max_box_area": 0.70343017578125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1175_jpg.rf.95452472e0e44080283c7d0b173cfcd3.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1175_jpg.rf.95452472e0e44080283c7d0b173cfcd3.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.97265625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 144.47242919921874,
+        "contrast_std": 106.80959023431754
+      },
+      "max_box_area": 0.70343017578125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1175_jpg.rf.e4ac58afb5ebd15dee9a05326ed90d27.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1175_jpg.rf.e4ac58afb5ebd15dee9a05326ed90d27.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.92578125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 169.55477783203125,
+        "contrast_std": 102.38366682147593
+      },
+      "max_box_area": 0.70343017578125,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file119_jpg.rf.55120197f00b543f9aac6f3c0838632b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file119_jpg.rf.55120197f00b543f9aac6f3c0838632b.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.93359375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 141.28653076171875,
+        "contrast_std": 98.99277414654091
+      },
+      "max_box_area": 0.6962890625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file119_jpg.rf.5dc9f14a16778740d6ae949109f8cb79.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file119_jpg.rf.5dc9f14a16778740d6ae949109f8cb79.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8203125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 112.5418994140625,
+        "contrast_std": 89.83879425085195
+      },
+      "max_box_area": 0.6962890625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file119_jpg.rf.9a28a11e8fdda8e416b3ef501461b876.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file119_jpg.rf.9a28a11e8fdda8e416b3ef501461b876.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 169.74142333984375,
+        "contrast_std": 94.7113459088854
+      },
+      "max_box_area": 0.6962890625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.0c9b2981b71c4967577433602dba67cb.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.0c9b2981b71c4967577433602dba67cb.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 127.35078857421875,
+        "contrast_std": 105.85602855233276
+      },
+      "max_box_area": 0.7105957031250001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.1d42bdfc0ae05e30192de3cb1cc94b3c.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.1d42bdfc0ae05e30192de3cb1cc94b3c.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 1.0,
+        "mean_saturation": 0.0,
+        "mean_brightness": 139.4537109375,
+        "contrast_std": 115.42622762749755
+      },
+      "max_box_area": 0.7263598632812499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.7f1a1e741149809e8e257d10a810f254.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.7f1a1e741149809e8e257d10a810f254.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.953125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 152.58666015625,
+        "contrast_std": 105.94393234886438
+      },
+      "max_box_area": 0.7263598632812499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.a839769e087bfa669208a4800f74375e.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.a839769e087bfa669208a4800f74375e.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8671875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 117.79990234375,
+        "contrast_std": 99.5077159921915
+      },
+      "max_box_area": 0.7105957031250001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.c24d1fe9dcc3e13c0140e39a981f5e02.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.c24d1fe9dcc3e13c0140e39a981f5e02.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.796875,
+        "mean_saturation": 0.0,
+        "mean_brightness": 174.16747802734375,
+        "contrast_std": 86.49632189635948
+      },
+      "max_box_area": 0.7105957031250001,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1208_jpg.rf.d6d3850e496c90b88dd82a7aeeed218e.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1208_jpg.rf.d6d3850e496c90b88dd82a7aeeed218e.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.8828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 119.62490234375,
+        "contrast_std": 100.35266402903731
+      },
+      "max_box_area": 0.7263598632812499,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1209_jpg.rf.0b343615ff7cd53c081fed79ff362c24.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1209_jpg.rf.0b343615ff7cd53c081fed79ff362c24.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.9140625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 123.98495361328125,
+        "contrast_std": 101.4818750205586
+      },
+      "max_box_area": 0.709140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1209_jpg.rf.2ffa20da4e31923ac6bdc1d93cec3ce8.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1209_jpg.rf.2ffa20da4e31923ac6bdc1d93cec3ce8.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.98828125,
+        "mean_saturation": 0.0,
+        "mean_brightness": 150.75198974609376,
+        "contrast_std": 106.66202528952455
+      },
+      "max_box_area": 0.709140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file1209_jpg.rf.8da7aa5e6254c114ad99543f4793229b.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file1209_jpg.rf.8da7aa5e6254c114ad99543f4793229b.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.84765625,
+        "mean_saturation": 0.0,
+        "mean_brightness": 172.01742431640625,
+        "contrast_std": 89.50218292667108
+      },
+      "max_box_area": 0.709140625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file120_jpg.rf.26d95cf32830ee366f27d4cde2e3cd5d.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file120_jpg.rf.26d95cf32830ee366f27d4cde2e3cd5d.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.87109375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 150.18451416015625,
+        "contrast_std": 88.4533349611826
+      },
+      "max_box_area": 0.68679931640625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    },
+    {
+      "split": "train",
+      "image": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/images/file120_jpg.rf.b32567895d3f70e1c7ef772e3060d0e8.jpg",
+      "label": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/train/labels/file120_jpg.rf.b32567895d3f70e1c7ef772e3060d0e8.txt",
+      "flags": [
+        "weapon_closeup_low_context"
+      ],
+      "style": {
+        "unique_gray_ratio": 0.80859375,
+        "mean_saturation": 0.0,
+        "mean_brightness": 86.09385009765624,
+        "contrast_std": 64.71215350157584
+      },
+      "max_box_area": 0.68679931640625,
+      "classes": [
+        2
+      ],
+      "n_boxes": 1
+    }
+  ]
+}
