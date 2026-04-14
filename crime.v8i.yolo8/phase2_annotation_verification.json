@@ -1,0 +1,21 @@
+{
+  "checked_label_files": 7794,
+  "total_valid_boxes": 16608,
+  "class_counts": {
+    "criminal": 3882,
+    "person": 6663,
+    "weapon": 6063
+  },
+  "issues_summary": {
+    "missing_label_file": 0,
+    "malformed_row": 0,
+    "invalid_class_id": 0,
+    "invalid_range": 0
+  },
+  "issues_preview": {
+    "missing_label_file": [],
+    "malformed_row": [],
+    "invalid_class_id": [],
+    "invalid_range": []
+  }
+}

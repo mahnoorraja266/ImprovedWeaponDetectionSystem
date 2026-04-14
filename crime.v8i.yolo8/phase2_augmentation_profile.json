@@ -1,0 +1,31 @@
+{
+  "intent": "realistic_cctv",
+  "allowed_augmentations": {
+    "hsv_h": 0.01,
+    "hsv_s": 0.35,
+    "hsv_v": 0.3,
+    "translate": 0.08,
+    "scale": 0.2,
+    "perspective": 0.0008,
+    "fliplr": 0.5,
+    "flipud": 0.0,
+    "mosaic": 0.15,
+    "mixup": 0.0,
+    "copy_paste": 0.0,
+    "erasing": 0.15,
+    "close_mosaic_epoch": 10
+  },
+  "cctv_effects_post_yolo": {
+    "gaussian_noise_prob": 0.25,
+    "jpeg_artifact_prob": 0.25,
+    "motion_blur_prob": 0.2,
+    "low_light_prob": 0.3,
+    "partial_occlusion_prob": 0.2
+  },
+  "blocked_aggressive_transforms": [
+    "large_perspective_warp",
+    "heavy_rotation",
+    "semantic_altering_cutmix",
+    "synthetic_object_paste"
+  ]
+}

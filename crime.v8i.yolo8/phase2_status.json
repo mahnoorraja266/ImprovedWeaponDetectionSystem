@@ -1,0 +1,7 @@
+{
+  "preprocessing_profile_file": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase2_preprocessing_profile.json",
+  "annotation_verification_file": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase2_annotation_verification.json",
+  "augmentation_profile_file": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase2_augmentation_profile.json",
+  "hard_example_set_file": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase2_hard_example_set.json",
+  "ready_for_training": true
+}
