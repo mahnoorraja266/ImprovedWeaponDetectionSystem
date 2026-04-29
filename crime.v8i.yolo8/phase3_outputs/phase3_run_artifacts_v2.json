@@ -1,0 +1,20 @@
+{
+  "phase3_v8n_stageB": {
+    "run_name": "phase3_v8n_stageB",
+    "run_dir": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8n_stageB",
+    "results_csv": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8n_stageB/results.csv",
+    "best_pt": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8n_stageB/weights/best.pt"
+  },
+  "phase3_v8s": {
+    "run_name": "phase3_v8s",
+    "run_dir": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s",
+    "results_csv": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s/results.csv",
+    "best_pt": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s/weights/best.pt"
+  },
+  "phase3_v8s_stageB": {
+    "run_name": "phase3_v8s_stageB",
+    "run_dir": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s_stageB",
+    "results_csv": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s_stageB/results.csv",
+    "best_pt": "/home/alpha/Desktop/FYP/models/weaponDetectionModel/crime.v8i.yolov8/phase3_outputs/phase3_v8s_stageB/weights/best.pt"
+  }
+}

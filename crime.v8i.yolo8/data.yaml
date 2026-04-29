@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['criminal', 'person', 'weapon']
+
+roboflow:
+  workspace: bahria-university-g0y7w
+  project: crime-dp3x3
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bahria-university-g0y7w/crime-dp3x3/dataset/8

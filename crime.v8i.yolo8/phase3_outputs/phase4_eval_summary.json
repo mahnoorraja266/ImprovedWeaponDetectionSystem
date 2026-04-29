@@ -1,0 +1,30 @@
+[
+  {
+    "run": "v8n_stageB",
+    "epochs_logged": 26,
+    "best::metrics/mAP50(B)": 0.92357,
+    "best::metrics/mAP50-95(B)": 0.74265,
+    "best::metrics/precision(B)": 0.93022,
+    "best::metrics/recall(B)": 0.86706,
+    "final::train/box_loss": 0.51481,
+    "final::train/cls_loss": 0.37458,
+    "final::train/dfl_loss": 0.96532,
+    "final::val/box_loss": 0.68262,
+    "final::val/cls_loss": 0.51706,
+    "final::val/dfl_loss": 1.07132
+  },
+  {
+    "run": "v8s_stageB",
+    "epochs_logged": 26,
+    "best::metrics/mAP50(B)": 0.90971,
+    "best::metrics/mAP50-95(B)": 0.74613,
+    "best::metrics/precision(B)": 0.92439,
+    "best::metrics/recall(B)": 0.85736,
+    "final::train/box_loss": 0.44775,
+    "final::train/cls_loss": 0.30961,
+    "final::train/dfl_loss": 0.93088,
+    "final::val/box_loss": 0.65604,
+    "final::val/cls_loss": 0.52348,
+    "final::val/dfl_loss": 1.07438
+  }
+]

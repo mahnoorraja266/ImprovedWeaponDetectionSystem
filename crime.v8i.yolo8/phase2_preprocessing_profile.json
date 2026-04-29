@@ -1,0 +1,21 @@
+{
+  "input_normalization": {
+    "primary_train_imgsz": 640,
+    "secondary_edge_imgsz": 416,
+    "recommended_stride_alignment": 32,
+    "letterbox_mode": "fit"
+  },
+  "class_schema": {
+    "num_classes": 3,
+    "class_names": [
+      "criminal",
+      "person",
+      "weapon"
+    ],
+    "valid_class_ids": [
+      0,
+      1,
+      2
+    ]
+  }
+}
